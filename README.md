@@ -1,8 +1,15 @@
-A Brain Tumor Detection project that leverages the power of Convolutional Neural Networks (CNNs) for accurate classification of brain tumors into four categories: No Tumor, Meningioma, Pituitary, and Glioma. This project, built with Python and Flask, incorporates HTML, CSS, and JavaScript for a responsive and user-friendly interface.
+🧠 Brain Tumor Detection with CNN
 
-✨ Key Highlights:
+A project leveraging Convolutional Neural Networks (CNNs) for precise classification of brain tumors into No Tumor, Meningioma, Pituitary, and Glioma.
 
-Machine Learning: Utilized CNN to effectively analyze MRI images, achieving high accuracy in detecting tumor types.
-Web Application: Developed a Flask-based web app with an intuitive UI for easy image upload and result visualization.
-Tech Stack: Python, Flask, HTML, CSS, JavaScript
-Purpose: This project aims to support medical professionals with a reliable tool for preliminary diagnosis, potentially expediting the diagnostic process and improving patient outcomes.
+✨ Highlights:
+
+🤖 Machine Learning: CNNs analyze MRI images with high accuracy.
+
+🌐 Web App: Flask-based app with intuitive UI for easy image uploads and results.
+
+🛠️ Tech Stack: Python, Flask, HTML, CSS, JavaScript.
+
+🎯 Purpose: Aids medical professionals in faster, reliable tumor diagnosis, improving patient outcomes.
+
+🚀 Enhancing healthcare with AI!
